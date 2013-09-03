@@ -13,7 +13,7 @@ URL_AUTH
 
 生成项目地址： http://www.androidbootstrap.com/
 
-编驿错语记录：
+编驿1错误记录：
 
 
 运行错误记录：
